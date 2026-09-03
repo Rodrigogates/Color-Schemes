@@ -1,14 +1,14 @@
 # Color-Schemes
 
-Colección de paletas de color temáticas, pensadas para reutilizarse fácilmente en distintos programas y editores.
+A collection of themed color palettes, made to be easily reused across different programs and editors.
 
-## Contenido
+## Contents
 
-- **Gates-Ocean** — paleta inspirada en tonos de océano.
-- **Gates-Wave** — paleta inspirada en tonos de ola/agua.
+- **Gates-Ocean** — a palette inspired by ocean tones.
+- **Gates-Wave** — a palette inspired by wave/water tones.
 
-Cada carpeta incluye la paleta exportada en varios formatos, listos para importar directamente en el programa que necesites, sin tener que introducir los colores a mano.
+Each folder includes the palette exported in several formats, ready to import directly into whatever program you need, without having to type the colors in by hand.
 
-## Motivación
+## Motivation
 
-Un pequeño proyecto personal para tener paletas de color consistentes a mano y no tener que reconstruirlas cada vez que empiezo un diseño o una interfaz nueva.
+A small personal project to keep consistent color palettes on hand, instead of rebuilding them every time I start a new design or interface.
