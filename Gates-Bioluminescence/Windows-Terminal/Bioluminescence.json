@@ -1,0 +1,23 @@
+{
+    "name": "Bioluminescence",
+    "background": "#060F1C",
+    "foreground": "#CCE8FF",
+    "cursorColor": "#11FF90",
+    "selectionBackground": "#113355",
+    "black": "#060F1C",
+    "red": "#FF3344",
+    "green": "#11FF66",
+    "yellow": "#AAFF44",
+    "blue": "#4499FF",
+    "purple": "#FF00B1",
+    "cyan": "#11FFCC",
+    "white": "#CCE8FF",
+    "brightBlack": "#3A6A8F",
+    "brightRed": "#FF6677",
+    "brightGreen": "#11FF90",
+    "brightYellow": "#CCFF77",
+    "brightBlue": "#55CCFF",
+    "brightPurple": "#FF55CC",
+    "brightCyan": "#11FFFF",
+    "brightWhite": "#FFFFFF"
+}
